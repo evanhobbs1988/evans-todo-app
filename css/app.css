@@ -1,0 +1,15 @@
+h1 {
+	color:white;
+	text-align: center;
+}
+body {
+	border: 1px;
+	font-weight: bold;
+	font-family: "Arial black", Gadget, sans-serif;
+	color: red;
+ 	background: linear-gradient( to right, black 80%, red, black);
+	align-content: left;
+}
+form{
+
+}
