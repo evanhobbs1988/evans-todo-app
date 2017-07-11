@@ -27,3 +27,4 @@ function addTodoItem(){
 		drawTodoList();
 	}
 }
+//function removeTodoItem(){if(action.remove'TodoItem'}//
